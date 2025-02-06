@@ -4,8 +4,6 @@ Welcome to my **GitHub**! I'm the creator of **[CodeHeist.run](https://codeheist
 
 ---
 
-![CodeHeist Banner](https://your-banner-url.com)
-
 ### 🚀 About Me
 I'm a passionate coder with a mission to **break down barriers** and make complex things **simple**. I believe in sharing knowledge, resources, and tools that can empower the community without all the hidden fees and restrictions. **CodeHeist.run** is my way of leveling the playing field, providing access to valuable, **premium codes** for free. 
 
@@ -42,8 +40,6 @@ Feel free to contact me if you want to collaborate or share ideas!
 
 - 🌐 Website: [**CodeHeist.run**](https://codeheist.run)
 - 📧 Email: [g7975@tuta.io](mailto:g7975@tuta.io)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-
 ---
 
 ### 🔮⚡ Fun Fact
@@ -55,6 +51,3 @@ I firmly believe that the best things in life should be **free**—knowledge, to
 This project is intended for **educational purposes** only. By using these resources, you agree to respect the intellectual property rights of others and adhere to ethical guidelines.
 
 ---
-
-![CodeHeist Footer](https://your-footer-image-url.com)
-
